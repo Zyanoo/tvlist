@@ -46,7 +46,7 @@ udp://@225.1.1.186:30120
 #EXTINF:35 tvg-id="MyTV_An ninh TV" tvg-name="ANTV HD" tvg-logo="https://imgur.com/kHZtzZw.png",ANTV HD
 udp://@225.1.2.169:30120
 
-#EXTINF: tvg-id="nid" tvg-name="VTC7 Today TV HD" tvg-logo="https://i.imgur.com/lW2DbEB.png",VTC7 - Today TV
+#EXTINF: tvg-id="nid" tvg-name="VTC7 Today TV HD" tvg-logo="https://i.imgur.com/lW2DbEB.png",VTC7
 udp://@225.1.2.197:30120
 
 #EXTINF:29 tvg-id="vtc14hd" tvg-name="VTC14 HD" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14 HD
