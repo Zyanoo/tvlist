@@ -92,6 +92,11 @@ udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://funkyimg.com/i/37CWs.png",DISCOVERY ASIA HD
 udp://@225.1.2.223:30120
 
+#EXTINF: tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
+udp://@225.1.2.196:30120
+
+#EXTINF:23 tvg-id="vtc6hd" tvg-name="VTC6 HD" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6
+udp://@225.1.2.198:30120
 
 
 #EXTINF:641 tvg-id="THVL1 HD" tvg-name="THVL1 HD" tvg-logo="https://funkyimg.com/i/37Dnb.png",THVL1 HD_VĨNH LONG 
@@ -115,12 +120,6 @@ udp://@225.1.2.200:30120
 #EXTINF: tvg-id="vtc5hd" tvg-name="VTC5 HD" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5
 udp://@225.1.2.199:30120
 
-#EXTINF:23 tvg-id="vtc6hd" tvg-name="VTC6 HD" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6
-udp://@225.1.2.198:30120
-
-
-#EXTINF: tvg-id="vtc8" tvg-name="VTC8" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8
-udp://@225.1.2.196:30120
 
 #EXTINF: tvg-id="vtc9hd" tvg-name="VTC9 Let's Viet HD" tvg-logo="https://i.imgur.com/UOIPXAr.png",VTC9 
 udp://@225.1.2.195:30120
