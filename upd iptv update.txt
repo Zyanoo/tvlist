@@ -117,7 +117,7 @@ udp://@225.1.2.190:30120
 #EXTINF:10 tvg-id="htv1" tvg-name="nn" tvg-logo="https://imgur.com/gftnwdV.png",HTV1
 udp://@225.1.1.180:30120
 
-#EXTINF:14 tvg-id="htv4" tvg-name="nn" tvg-logo="https://funkyimg.com/i/37CXB.png",HTV4_KEYS
+#EXTINF:14 tvg-id="htvkey" tvg-name="nn" tvg-logo="https://funkyimg.com/i/37CXB.png",HTV4_KEYS
 udp://@225.1.1.177:30120
 
 
