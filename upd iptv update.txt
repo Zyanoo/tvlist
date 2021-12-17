@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF: tvg-id="cotso1" tvg-name="cot2so" tvg-logo="https://i.imgur.com/lW2DbEB.png",thu3
-udp://@225.1.2.197:30120
+udp://@225.2.2.197:30120
 
 #EXTINF:120 tvg-id="VTV1 HD-ClipTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png",VTV1 HD
 udp://@225.1.2.249:30120
