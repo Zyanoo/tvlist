@@ -73,10 +73,10 @@ udp://@225.1.1.156:30120
 #EXTINF:921 tvg-id="quangnam" tvg-name="Quang_Nam" tvg-logo="https://imgur.com/V6wnEia.png",QRT HD_QUẢNG NAM
 udp://@225.1.2.50:30120
 
-#EXTINF:431 tvg-id="danang1" tvg-name="Da Nang 1" tvg-logo="https://imgur.com/V3NhGyb.png",DaNangTV1 HD_ĐÀ NẴNG
+#EXTINF:431 tvg-id="danang1" tvg-name="Da Nang 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",DaNangTV1 HD_ĐÀ NẴNG
 udp://@225.1.1.147:30120
 
-#EXTINF:-1 tvg-id="danang2" tvg-logo="https://i.imgur.com/2vFDTuV.png",DaNangTV2 HD_ĐÀ NẴNG
+#EXTINF:-1 tvg-id="danang2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Logo_DaNangtv_2018.png",DaNangTV2 HD_ĐÀ NẴNG
 udp://@225.1.1.146:30120
 
 #EXTINF: tvg-id="vtc4hd" tvg-name="VTC4 Yeah1 Family HD" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 HD
@@ -456,7 +456,7 @@ udp://@225.1.1.142:30120
 #EXTINF: tvg-id="Max by HBO" tvg-name="nn" tvg-logo="https://i.imgur.com/4vYV1PK.png",CINEMAX HD
 udp://@225.1.2.86:30120
 
-#EXTINF: tvg-id="sbscnbchd" tvg-name="CNBC" tvg-logo="https://i.imgur.com/x90A7Ad.png",CNBC
+#EXTINF: tvg-id="sbscnbchd" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
 udp://@225.1.1.227:30120
 
 #EXTINF: tvg-id="CNN HD (CNNHD)" tvg-name="CNN" tvg-logo="https://i.imgur.com/68hmRiM.png",CNN
@@ -465,7 +465,7 @@ udp://@225.1.1.242:30120
 #EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",DISCOVERY ASIA HD
 udp://@225.1.2.223:30120
 
-#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest?cb=20210530055921",DISCOVERY CHANNEL HD
+#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://i.pinimg.com/236x/b8/00/a1/b800a11353ec6ace6f9c78d4938bfc94.jpg",DISCOVERY CHANNEL HD
 udp://@225.1.1.238:30120
 
 #EXTINF:145 tvg-id="dreamworks" tvg-name="dreamworks" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",DREAMWORKS HD
@@ -480,7 +480,7 @@ udp://@225.1.2.227:30120
 #EXTINF:137 tvg-id="france24eng" tvg-name="France24" tvg-logo="https://imgur.com/sTK7s5R.png",FRANCE 24 (English)
 udp://@225.1.2.211:30120
 
-#EXTINF: tvg-id="hbo" tvg-name="nn" tvg-logo="https://i.imgur.com/JOIDdwy.png",HBO HD
+#EXTINF: tvg-id="hbo" tvg-name="nn" tvg-logo="https://media.tegna-media.com/assets/WTHR/images/04e7b13a-a6cb-45c1-abd9-5f553182d39b/04e7b13a-a6cb-45c1-abd9-5f553182d39b_750x422.png",HBO HD
 udp://@225.1.4.90:30120
 
 #EXTINF:138 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://imgur.com/HXFXYdZ.png",KBS WORLD
