@@ -144,10 +144,10 @@ udp://@225.1.1.184:30120
 #EXTINF:9 tvg-id="HTVC PHU NU HD" tvg-name="HTVC Phụ Nữ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",HTVC PHỤ NỮ HD
 udp://@225.1.1.171:30120
 
-#EXTINF:-1 tvg-id="HTVC PLUS HD" tvg-name="HTVC Plus HD" tvg-logo="https://i.imgur.com/b7BsqbQ.jpg",HTVC PLUS HD
+#EXTINF:-1 tvg-id="HTVC PLUS HD" tvg-name="HTVC Plus HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/HTVC_HD.png/revision/latest?cb=20201018003414&path-prefix=vi",HTVC PLUS HD
 udp://@225.1.1.181:30120
 
-#EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC Thuần Việt HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTVC_Vietnamese_HD.png/revision/latest?cb=20210131021250&path-prefix=vig",HTVC THUẦN VIỆT HD
+#EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC Thuần Việt HD" tvg-logo="hhttps://static.wikia.nocookie.net/logos/images/6/6a/HTVC_Vietnamese.png/revision/latest?cb=20210131021351&path-prefix=vi",HTVC THUẦN VIỆT HD
 udp://@225.1.1.186:30120
 
 
@@ -269,7 +269,7 @@ udp://@225.1.2.176:30120
 #EXTINF:231 tvg-id="hagiang" tvg-name="Ha Giang " tvg-logo="https://imgur.com/OzqxrQ0.png",HGTV_HÀ GIANG
 udp://@225.1.1.62:30120
 
-#EXTINF:901 tvg-id="hanam" tvg-name="Ha_Nam" tvg-logo="https://i.imgur.com/XSeMkmc.png",THHN_HÀ NAM
+#EXTINF:901 tvg-id="hanam" tvg-name="Ha_Nam" tvg-logo="https://media.hanamtv.vn/upload/files/logo/logo_400.png",THHN_HÀ NAM
 udp://@225.1.1.63:30120
 
 #EXTINF: tvg-id="MyTV_Hà Nội 1 HD" tvg-name="Hà Nội 1" tvg-logo="https://imgur.com/dr2eb5D.png",H1 HD_HÀ NỘI
@@ -378,7 +378,7 @@ udp://@225.1.2.179:30120
 #EXTINF:361 tvg-id="thanhhoa" tvg-name="Thanh_Hoa" tvg-logo="https://imgur.com/WQ5fAeY.png",TTV_THANH HÓA
 udp://@225.1.2.184:30120
 
-#EXTINF:751 tvg-id="" tvg-name="hue" tvg-logo="https://imgur.com/2l76kq2.png",TRT_THỪA THIÊN HUẾ
+#EXTINF:751 tvg-id="hue" tvg-name="hue" tvg-logo="https://imgur.com/2l76kq2.png",TRT_THỪA THIÊN HUẾ
 udp://@225.1.1.161:30120
 
 #EXTINF:841 tvg-id="travinh" tvg-name="Tra_Vinh" tvg-logo="https://imgur.com/qX9mo40.png",THTV HD_TRÀ VINH 
@@ -402,8 +402,38 @@ udp://@225.1.1.39:30120
 #EXTINF: tvg-id="MyTV_Australia Plus" tvg-name="ABC Australia" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072018/untitled-1_186.png?",ABC AUSTRALIA
 udp://@225.1.2.21:30120
 
+
+
+
+
 #EXTINF: tvg-id="Animal Planet-ClipTV" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
 udp://@225.1.1.231:30120
+
+#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://imgur.com/bfXDky3.png",BBC EARTH HD
+udp://@225.1.2.24:30120
+
+#EXTINF: tvg-id="Nat Geo Wild HD-ClipTV" tvg-name="Nat Geo Wild HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD HD
+udp://@225.1.1.211:30120
+
+#EXTINF:46 tvg-id="national_geographic" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/pM3WuUY.jpg",NATIONAL GEOGRAPHIC HD
+udp://@225.1.2.235:30120
+
+#EXTINF:108 tvg-id="MyTV_Outdoor Channel HD" tvg-name="Outdoor Channel" tvg-logo="https://imgur.com/qhbsK2l.png",OUTDOOR CHANNEL HD
+udp://@225.1.2.215:30120
+
+#EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",DISCOVERY ASIA HD
+udp://@225.1.2.223:30120
+
+#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://i.ibb.co/QNys9f2/DISCOVERY-CHANNEL.png",DISCOVERY CHANNEL HD
+udp://@225.1.1.238:30120
+
+#EXTINF:150 tvg-id="MyTV_Asian Food Channel HD" tvg-name="AFN HD" tvg-logo="https://mytv.com.vn/upload/channel/phpFGBS5t_60876c46c9ea0.png",ASIAN FOOD NETWORK HD 
+udp://@225.1.1.198:30120
+
+#EXTINF: tvg-id="tlchd" tvg-name="TLC (Travel & Living)" tvg-logo="https://imgur.com/PEXGQAG.png",TLC HD
+udp://@225.1.1.236:30120
+
+
 
 #EXTINF: tvg-id="Animax" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
 udp://@225.1.1.135:30120
@@ -411,8 +441,6 @@ udp://@225.1.1.135:30120
 #EXTINF:69 tvg-id="MyTV_arirang" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/2560px-Arirang-TV-Logo.svg.png",ARIRANG
 udp://@225.1.1.201:30120
 
-#EXTINF:150 tvg-id="MyTV_Asian Food Channel HD" tvg-name="AFN HD" tvg-logo="https://mytv.com.vn/upload/channel/phpFGBS5t_60876c46c9ea0.png",ASIAN FOOD NETWORK HD 
-udp://@225.1.1.198:30120
 
 #EXTINF: tvg-id="AXN-ClipTV" tvg-name="AXN HD" tvg-logo="https://imgur.com/AyyX0IP.png",AXN HD 
 udp://@225.1.2.225:30120
@@ -423,8 +451,6 @@ udp://@225.1.4.28:30120
 #EXTINF:163 tvg-id="Baby TV HD-ClipTV" tvg-name="BabyTV HD" tvg-logo="https://i.imgur.com/DI5IdU5.png",BABY TV HD 
 udp://@225.1.2.146:30120
 
-#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://imgur.com/bfXDky3.png",BBC EARTH HD
-udp://@225.1.2.24:30120
 
 #EXTINF:-1 tvg-id="BBC LIFESTYLE" tvg-name="BBC Life Style" tvg-logo="https://weareratchet.com/web/wp-content/uploads/2019/04/10.-BBC-Lifestyle.png",BBC LIFESTYLE
 udp://@225.1.2.52:30120
@@ -462,12 +488,6 @@ udp://@225.1.1.227:30120
 #EXTINF: tvg-id="CNN HD (CNNHD)" tvg-name="CNN" tvg-logo="https://i.imgur.com/68hmRiM.png",CNN
 udp://@225.1.1.242:30120
 
-#EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",DISCOVERY ASIA HD
-udp://@225.1.2.223:30120
-
-#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://i.pinimg.com/236x/b8/00/a1/b800a11353ec6ace6f9c78d4938bfc94.jpg",DISCOVERY CHANNEL HD
-udp://@225.1.1.238:30120
-
 #EXTINF:145 tvg-id="dreamworks" tvg-name="dreamworks" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",DREAMWORKS HD
 udp://@225.1.1.136:30120
 
@@ -492,20 +512,12 @@ udp://@225.1.2.144:30120
 #EXTINF:79 tvg-id="MyTV_MTV HD" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/ZxK2Bw9.png",MTV
 udp://@225.1.1.245:30120
 
-#EXTINF: tvg-id="Nat Geo Wild HD-ClipTV" tvg-name="Nat Geo Wild HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD HD
-udp://@225.1.1.211:30120
 
-#EXTINF:46 tvg-id="national_geographic" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/pM3WuUY.jpg",NATIONAL GEOGRAPHIC HD
-udp://@225.1.2.235:30120
 
 #EXTINF:50 tvg-id="nhkworld" tvg-name="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2044px-NHK_World.svg.png",NHK WORLD JAPAN HD
 udp://@225.1.1.47:30120
 
-#EXTINF:108 tvg-id="MyTV_Outdoor Channel HD" tvg-name="Outdoor Channel" tvg-logo="https://imgur.com/qhbsK2l.png",OUTDOOR CHANNEL HD
-udp://@225.1.2.215:30120
 
-#EXTINF: tvg-id="tlchd" tvg-name="TLC (Travel & Living)" tvg-logo="https://imgur.com/PEXGQAG.png",TLC HD
-udp://@225.1.1.236:30120
 
 #EXTINF:65 tvg-id="TV5 MONDE" tvg-name="TV5 Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo-tv5monde.svg/800px-Logo-tv5monde.svg.png",TV5 MONDE ASIE
 udp://@225.1.1.200:30120
