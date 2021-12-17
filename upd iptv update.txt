@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF: tvg-id="cotso1" tvg-name="cot2so" tvg-logo="https://i.imgur.com/lW2DbEB.png",thu3
-udp://@225.2.2.197:30120
-
 #EXTINF:120 tvg-id="VTV1 HD-ClipTV" tvg-name="VTV1 HD" tvg-logo="https://i.imgur.com/WpQtg0z.png",VTV1 HD
 udp://@225.1.2.249:30120
 
@@ -41,7 +38,7 @@ udp://@225.1.1.193:30120
 
 #EXTINF:87 tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://imgur.com/gjZnjmF.png",HTV3
 udp://@225.1.1.178:30120
-#EXTINF: tvg-id="vtc7hd" tvg-name="VTC7 Today TV HD" tvg-logo="https://i.imgur.com/lW2DbEB.png",VTC7 - Today TV
+#EXTINF: tvg-id="vtc7hd" tvg-name="VTC7 Today TV HD" tvg-logo="https://lh6.googleusercontent.com/-_H7nGqg_Wdo/U_7kjFwrawI/AAAAAAAAAxg/Ut9adbsiBNE/w559-h257-no/VTC7-TODAY-TV.png",VTC7 - Today TV
 udp://@225.1.2.197:30120
 
 #EXTINF:35 tvg-id="MyTV_An ninh TV" tvg-name="ANTV HD" tvg-logo="https://imgur.com/kHZtzZw.png",ANTV HD
@@ -61,10 +58,10 @@ udp://@225.1.2.202:30120
 udp://@225.1.4.42:30120
 
 
-#EXTINF:641 tvg-id="THVL1 HD" tvg-name="THVL1 HD" tvg-logo="https://funkyimg.com/i/37Dnb.png",THVL1 HD_VĨNH LONG 
+#EXTINF:641 tvg-id="THVL1 HD" tvg-name="THVL1 HD" tvg-logo="https://i.pinimg.com/originals/6d/d6/b3/6dd6b34d75d2c81bead40d474a6e9452.png",THVL1 HD_VĨNH LONG 
 udp://@225.1.1.155:30120
 
-#EXTINF:642 tvg-id="THVL2 HD" tvg-name="THVL2 HD" tvg-logo="https://funkyimg.com/i/37Dnb.png",THVL2 HD_VĨNH LONG
+#EXTINF:642 tvg-id="THVL2 HD" tvg-name="THVL2 HD" tvg-logo="https://i.pinimg.com/originals/69/09/9b/69099ba866213621ebfbae16527c0c9d.png",THVL2 HD_VĨNH LONG
 udp://@225.1.1.154:30120
 
 
@@ -120,11 +117,11 @@ udp://@225.1.2.190:30120
 #EXTINF:10 tvg-id="htv1" tvg-name="nn" tvg-logo="https://imgur.com/gftnwdV.png",HTV1
 udp://@225.1.1.180:30120
 
-#EXTINF:14 tvg-id="htvkey" tvg-name="nn" tvg-logo="https://funkyimg.com/i/37CXB.png",HTV4_KEYS
+#EXTINF:14 tvg-id="htvkey" tvg-name="nn" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6d/HTV4_HTV_Key.png/revision/latest/scale-to-width-down/340?cb=20201012040751&path-prefix=vi",HTV4_KEYS
 udp://@225.1.1.177:30120
 
 
-#EXTINF:-1 tvg-id="htvc_fbnc" tvg-name="HTVC FBNC" tvg-logo="https://funkyimg.com/i/37CXy.png",HTV FBNC HD
+#EXTINF:-1 tvg-id="htvc_fbnc" tvg-name="HTVC FBNC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",HTV FBNC HD
 udp://@225.1.1.182:30120
 
 #EXTINF:15 tvg-id="htvthethaohd" tvg-name="HTV Thể Thao HD" tvg-logo="https://imgur.com/A8RNAwQ.png",HTV THỂ THAO HD
@@ -141,36 +138,36 @@ udp://@225.1.4.67:30120
 #EXTINF:64 tvg-id="HTVC GIA DINH" tvg-name="HTVC Gia Đình HD" tvg-logo="https://i.imgur.com/8r89Qvf.png",HTVC GIA ĐÌNH HD
 udp://@225.1.1.170:30120
 
-#EXTINF:77 tvg-id="HTVC Phim HD" tvg-name="HTVC Phim HD" tvg-logo="https://funkyimg.com/i/389fi.png",HTVC PHIM HD
+#EXTINF:77 tvg-id="HTVC Phim HD" tvg-name="HTVC Phim HD" tvg-logo="https://2.bp.blogspot.com/-xxhwSwFIOEA/Wc8Dynd5ikI/AAAAAAAAAcE/Er46aOCAJDELh9lKz6Is4-F4Rr4OQxH5gCLcBGAs/w1200-h630-p-k-no-nu/563560-logo-kenh-phim-.png",HTVC PHIM HD
 udp://@225.1.1.184:30120
 
-#EXTINF:9 tvg-id="HTVC PHU NU HD" tvg-name="HTVC Phụ Nữ HD" tvg-logo="https://funkyimg.com/i/37Dfz.png",HTVC PHỤ NỮ HD
+#EXTINF:9 tvg-id="HTVC PHU NU HD" tvg-name="HTVC Phụ Nữ HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",HTVC PHỤ NỮ HD
 udp://@225.1.1.171:30120
 
 #EXTINF:-1 tvg-id="HTVC PLUS HD" tvg-name="HTVC Plus HD" tvg-logo="https://i.imgur.com/b7BsqbQ.jpg",HTVC PLUS HD
 udp://@225.1.1.181:30120
 
-#EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC Thuần Việt HD" tvg-logo="https://imgur.com/M4rF27R.png",HTVC THUẦN VIỆT HD
+#EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC Thuần Việt HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/HTVC_Vietnamese_HD.png/revision/latest?cb=20210131021250&path-prefix=vig",HTVC THUẦN VIỆT HD
 udp://@225.1.1.186:30120
 
 
 
 
-#EXTINF:55 tvg-id="SCTV2 - AMC" tvg-name="SCTV2 HD" tvg-logo="https://funkyimg.com/i/37DfF.png",SCTV2_AMC
+#EXTINF:55 tvg-id="SCTV2 - AMC" tvg-name="SCTV2 HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3b/SCTV2_logo_2017.png/revision/latest/scale-to-width-down/200?cb=20201119114104&path-prefix=vi",SCTV2_AMC
 udp://@225.1.1.234:30120
 
-#EXTINF:55 tvg-id="SCTV6 HD - SNTV" tvg-name="SCTV6 HD" tvg-logo="https://i.postimg.cc/QCDkdFgm/logo-sctv.png",SCTV6 HD
+#EXTINF:55 tvg-id="SCTV6 HD - SNTV" tvg-name="SCTV6 HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4b/SCTV6.png/revision/latest/scale-to-width-down/200?cb=20201202050044&path-prefix=vi",SCTV6 HD
 udp://@225.1.1.188:30120
 
 
 
-#EXTINF:-1 tvg-id="nid" tvg-logo="https://funkyimg.com/i/37Dkj.png",BTV10_NCM
+#EXTINF:-1 tvg-id="nid" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/NCM_BTV10_logo.png/revision/latest?cb=20181008070900&path-prefix=vi",BTV10_NCM
 udp://@225.1.1.225:30120
 
 
 
 
-#EXTINF:-1 tvg-id="youtv" tvg-logo="https://funkyimg.com/i/37G5e.png",HANOICAB2_YOU!TV
+#EXTINF:-1 tvg-id="youtv" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5d506068474815.Y3JvcCwzNzI2LDI5MTQsMCw1NQ.png",HANOICAB2_YOU!TV
 udp://@225.1.1.207:30120
 
 #EXTINF:128 tvg-id="nhan_dan_tv" tvg-name="nn" tvg-logo="https://i.imgur.com/HcPvv0G.png",NHÂN DÂN HD
@@ -182,10 +179,10 @@ udp://@225.1.2.148:30120
 #EXTINF:127 tvg-id="MyTV_Quốc phòng Việt Nam HD" tvg-name="QPVN HD" tvg-logo="https://imgur.com/xtA4AlV.png",QPVN HD
 udp://@225.1.2.217:30120
 
-#EXTINF:-1 tvg-id="ttxvnhd" tvg-name="TTXVN - Thông Tấn Xã VN HD" tvg-logo="https://funkyimg.com/i/31qhJ.png",VNEWS HD
+#EXTINF:-1 tvg-id="ttxvnhd" tvg-name="TTXVN - Thông Tấn Xã VN HD" tvg-logo="https://dhtn.ttxvn.org.vn/Images/files/V_NEWS.png",VNEWS HD
 udp://@225.1.1.43:30120
 
-#EXTINF:90 tvg-id="VOVTV" tvg-name="VIETNAMJOURNEY" tvg-logo="https://i.imgur.com/bKAWD0f.jpg",VIETNAM JOURNEY HD
+#EXTINF:90 tvg-id="VOVTV" tvg-name="VIETNAMJOURNEY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VIETNAM JOURNEY HD
 udp://@225.1.2.171:30120
 
 
@@ -194,7 +191,7 @@ udp://@225.1.2.171:30120
 #EXTINF:671 tvg-id="angiang" tvg-name="An_Giang_1" tvg-logo="https://imgur.com/dJUJoW0.png",ATV_AN GIANG
 udp://@225.1.2.173:30120
 
-#EXTINF:941 tvg-id="baclieu" tvg-name="Bac_Lieu" tvg-logo="https://i.imgur.com/9Sfu1UY.png",BLTV HD_BẠC LIÊU
+#EXTINF:941 tvg-id="baclieu" tvg-name="Bac_Lieu" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/85/Logo_%C4%90%C3%A0i_PT-TH_B%E1%BA%A1c_Li%C3%AAu.png",BLTV HD_BẠC LIÊU
 udp://@225.1.1.61:30120
 
 #EXTINF:-1 tvg-id="nid" tvg-logo="https://i.imgur.com/WSpyIU4.png",BRT HD_BÀ RỊA VŨNG TÀU
@@ -212,16 +209,16 @@ udp://@225.1.1.40:30120
 #EXTINF: tvg-id="MyTV_Bình Dương 1 HD" tvg-name="Bình Dương 1" tvg-logo="https://imgur.com/Jod5zk5.png",BTV1 HD_BÌNH DƯƠNG
 udp://@225.1.1.150:30120
 
-#EXTINF:612 tvg-id="MyTV_Bình Dương 2" tvg-name="Bình Dương 2" tvg-logo="https://funkyimg.com/i/38GUS.png",BTV2 HD_BÌNH DƯƠNG
+#EXTINF:612 tvg-id="MyTV_Bình Dương 2" tvg-name="Bình Dương 2" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",BTV2 HD_BÌNH DƯƠNG
 udp://@225.1.4.81:30120
 
-#EXTINF:612 tvg-id="nid" tvg-name="Bình Dương 3" tvg-logo="https://i.imgur.com/FyjCsje.jpg",BTV3 HD_BÌNH DƯƠNG
+#EXTINF:612 tvg-id="nid" tvg-name="Bình Dương 3" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",BTV3 HD_BÌNH DƯƠNG
 udp://@225.1.2.22:30120
 
 #EXTINF: tvg-id="IMOVIE HD" tvg-name="Bình Dương 4" tvg-logo="https://imgur.com/bAszEEm.png",BTV4 HD_iMOVIE TV
 udp://@225.1.1.30:30120
 
-#EXTINF:-1 tvg-id="nid" tvg-logo="https://funkyimg.com/i/37Dkw.jpg",BTV6_BÌNH DƯƠNG
+#EXTINF:-1 tvg-id="nid" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",BTV6_BÌNH DƯƠNG
 udp://@225.1.1.223:30120
 
 #EXTINF:-1 tvg-id="AN VIEN HD" tvg-logo="https://i.imgur.com/NF5YDkn.png",BTV9 HD_AN VIÊN
@@ -299,7 +296,7 @@ udp://@225.1.2.168:30120
 #EXTINF: tvg-id="hungyen" tvg-name="Hung Yen" tvg-logo="https://imgur.com/9bnQqNs.png",HY_HƯNG YÊN
 udp://@225.1.1.118:30120
 
-#EXTINF:681 tvg-id="kiengiang" tvg-name="Kien_Giang" tvg-logo="https://funkyimg.com/i/37DRb.png",KG1 HD_KIÊN GIANG
+#EXTINF:681 tvg-id="kiengiang" tvg-name="Kien_Giang" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/KG_Ki%C3%AAn_Giang.png/revision/latest?cb=20201025093743&path-prefix=vi",KG1 HD_KIÊN GIANG
 udp://@225.1.2.182:30120
 
 #EXTINF:821 tvg-id="kontum" tvg-name="Kon_Tum" tvg-logo="https://imgur.com/ozTB3Iw.png",KRT HD_KON TUM
@@ -345,10 +342,10 @@ udp://@225.1.2.58:30120
 udp://@225.1.2.164:30120
 
 
-#EXTINF:141 tvg-id="quangninh1" tvg-name="TH QUANG NINH 1" tvg-logo="https://i.wingur.com/LRFGN.jpg",QTV1 HD_QUẢNG NINH
+#EXTINF:141 tvg-id="quangninh1" tvg-name="TH QUANG NINH 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",QTV1 HD_QUẢNG NINH
 udp://@225.1.2.181:30120
 
-#EXTINF:141 tvg-id="quangninh3" tvg-name="TH QUANG NINH 3" tvg-logo="https://i.wingur.com/LRw3T.jpg",QTV3_QUẢNG NINH
+#EXTINF:141 tvg-id="quangninh3" tvg-name="TH QUANG NINH 3" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bb/QTV.png/revision/latest/scale-to-width-down/340?cb=20200822125032&path-prefix=vi",QTV3_QUẢNG NINH
 udp://@225.1.2.180:30120
 
 #EXTINF:761 tvg-id="quangngai" tvg-name="Quang_Ngai" tvg-logo="https://imgur.com/L1I0ngF.png",PTQ HD_QUẢNG NGÃI
@@ -388,48 +385,48 @@ udp://@225.1.1.161:30120
 udp://@225.1.2.172:30120
 
 
-#EXTINF:642 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" tvg-logo="https://funkyimg.com/i/37Dnb.png",THVL3 HD_VĨNH LONG
+#EXTINF:642 tvg-id="vinhlong3hd" tvg-name="THVL3 HD" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl3.png?1572154499",THVL3 HD_VĨNH LONG
 udp://@225.1.1.235:30120
 
-#EXTINF:642 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" tvg-logo="https://funkyimg.com/i/37Dnb.png",THVL4 HD_VĨNH LONG 
+#EXTINF:642 tvg-id="vinhlong4hd" tvg-name="THVL4 HD" tvg-logo="https://lichtruyenhinhtv.com/uploads/thvl3.png?1572154499",THVL4 HD_VĨNH LONG 
 udp://@225.1.2.25:30120
 
-#EXTINF:881 tvg-id="vinhphuc" tvg-name="Vinh Phuc" tvg-logo="https://funkyimg.com/i/37LMS.png",VP_VĨNH PHÚC
+#EXTINF:881 tvg-id="vinhphuc" tvg-name="Vinh Phuc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg/1280px-Logo_%C4%90%C3%A0i_PT-TH_V%C4%A9nh_Ph%C3%BAc.svg.png",VP_VĨNH PHÚC
 udp://@225.1.2.99:30120
 
-#EXTINF:211 tvg-id="yenbai" tvg-name="Yen_Bai" tvg-logo="https://funkyimg.com/i/37LMV.png",YTV_YÊN BÁI
+#EXTINF:211 tvg-id="yenbai" tvg-name="Yen_Bai" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f8/YTV.png/revision/latest/scale-to-width-down/340?cb=20180830135735&path-prefix=vi",YTV_YÊN BÁI
 udp://@225.1.1.39:30120
 
 
 
-#EXTINF: tvg-id="MyTV_Australia Plus" tvg-name="ABC Australia" tvg-logo="https://funkyimg.com/i/37CXg.png",ABC AUSTRALIA
+#EXTINF: tvg-id="MyTV_Australia Plus" tvg-name="ABC Australia" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072018/untitled-1_186.png?",ABC AUSTRALIA
 udp://@225.1.2.21:30120
 
-#EXTINF: tvg-id="Animal Planet-ClipTV" tvg-name="Animal Planet" tvg-logo="https://funkyimg.com/i/37CWM.png",ANIMAL PLANET HD
+#EXTINF: tvg-id="Animal Planet-ClipTV" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
 udp://@225.1.1.231:30120
 
-#EXTINF: tvg-id="Animax" tvg-name="Animax" tvg-logo="https://funkyimg.com/i/39zGa.png",ANIMAX HD
+#EXTINF: tvg-id="Animax" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",ANIMAX HD
 udp://@225.1.1.135:30120
 
-#EXTINF:69 tvg-id="MyTV_arirang" tvg-name="Arirang" tvg-logo="https://funkyimg.com/i/37CX2.png",ARIRANG
+#EXTINF:69 tvg-id="MyTV_arirang" tvg-name="Arirang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Arirang-TV-Logo.svg/2560px-Arirang-TV-Logo.svg.png",ARIRANG
 udp://@225.1.1.201:30120
 
-#EXTINF:150 tvg-id="MyTV_Asian Food Channel HD" tvg-name="AFN HD" tvg-logo="https://funkyimg.com/i/2Zur7.jpg",ASIAN FOOD NETWORK HD 
+#EXTINF:150 tvg-id="MyTV_Asian Food Channel HD" tvg-name="AFN HD" tvg-logo="https://mytv.com.vn/upload/channel/phpFGBS5t_60876c46c9ea0.png",ASIAN FOOD NETWORK HD 
 udp://@225.1.1.198:30120
 
 #EXTINF: tvg-id="AXN-ClipTV" tvg-name="AXN HD" tvg-logo="https://imgur.com/AyyX0IP.png",AXN HD 
 udp://@225.1.2.225:30120
 
-#EXTINF:-1 tvg-logo="https://funkyimg.com/i/37CXb.png",BABY FIRST HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b1/Babyfirst.png",BABY FIRST HD
 udp://@225.1.4.28:30120
 
 #EXTINF:163 tvg-id="Baby TV HD-ClipTV" tvg-name="BabyTV HD" tvg-logo="https://i.imgur.com/DI5IdU5.png",BABY TV HD 
 udp://@225.1.2.146:30120
 
-#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://funkyimg.com/i/37CWi.png",BBC EARTH HD
+#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://imgur.com/bfXDky3.png",BBC EARTH HD
 udp://@225.1.2.24:30120
 
-#EXTINF:-1 tvg-id="BBC LIFESTYLE" tvg-name="BBC Life Style" tvg-logo="https://funkyimg.com/i/37CXe.png",BBC LIFESTYLE
+#EXTINF:-1 tvg-id="BBC LIFESTYLE" tvg-name="BBC Life Style" tvg-logo="https://weareratchet.com/web/wp-content/uploads/2019/04/10.-BBC-Lifestyle.png",BBC LIFESTYLE
 udp://@225.1.2.52:30120
 
 #EXTINF: tvg-id="MyTV_BBC World News" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/wyGqdLe.png",BBC WORLD NEWS
@@ -438,22 +435,22 @@ udp://@225.1.2.74:30120
 #EXTINF: tvg-id="Bloomberg_VTVCab" tvg-name="Bloomberg" tvg-logo="https://imgur.com/HC1WD0K.png",BLOOMBERG
 udp://@225.1.4.18:30120
 
-#EXTINF:-1 tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://funkyimg.com/i/37CWT.png",BLUE ANT ENTERTAINMENT HD 
+#EXTINF:-1 tvg-id="Blue Ant Entertainment" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",BLUE ANT ENTERTAINMENT HD 
 udp://@225.1.1.203:30120
 
-#EXTINF:-1 tvg-id="Blueantext" tvg-name="Blue Ant Extreme HD" tvg-logo="https://funkyimg.com/i/37CWU.png",BLUE ANT EXTREME HD 
+#EXTINF:-1 tvg-id="Blueantext" tvg-name="Blue Ant Extreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",BLUE ANT EXTREME HD 
 udp://@225.1.1.204:30120
 
-#EXTINF:-1 tvg-id="Boomerang-ClipTV" tvg-name="Boomerang" tvg-logo="https://funkyimg.com/i/37CX9.png",BOOMERANG HD
+#EXTINF:-1 tvg-id="Boomerang-ClipTV" tvg-name="Boomerang" tvg-logo="https://www.clipartmax.com/png/full/323-3232414_heartland-estreia-no-boomerang-boomerang-logo-199.png",BOOMERANG HD
 udp://@225.1.1.138:30120
 
-#EXTINF: tvg-id="cbeebies" tvg-name="cbeebies" tvg-logo="https://funkyimg.com/i/39WV8.png",CBEEBIES HD
+#EXTINF: tvg-id="cbeebies" tvg-name="cbeebies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",CBEEBIES HD
 udp://@225.1.1.134:30120
 
 #EXTINF: tvg-id="MyTV_MEDIACORP HD" tvg-name="Channel News Asia" tvg-logo="https://imgur.com/NvoNVEi.png",CHANNEL NEWS ASIA
 udp://@225.1.1.202:30120
 
-#EXTINF:-1 tvg-id="cinema_world_hd" tvg-name="Cinema World HD" tvg-logo="https://funkyimg.com/i/37CWW.png",CINEMA WORLD HD
+#EXTINF:-1 tvg-id="cinema_world_hd" tvg-name="Cinema World HD" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png",CINEMA WORLD HD
 udp://@225.1.1.142:30120
 
 #EXTINF: tvg-id="Max by HBO" tvg-name="nn" tvg-logo="https://i.imgur.com/4vYV1PK.png",CINEMAX HD
@@ -465,16 +462,16 @@ udp://@225.1.1.227:30120
 #EXTINF: tvg-id="CNN HD (CNNHD)" tvg-name="CNN" tvg-logo="https://i.imgur.com/68hmRiM.png",CNN
 udp://@225.1.1.242:30120
 
-#EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://funkyimg.com/i/37CWs.png",DISCOVERY ASIA HD
+#EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",DISCOVERY ASIA HD
 udp://@225.1.2.223:30120
 
-#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://funkyimg.com/i/2Z4Vz.png",DISCOVERY CHANNEL HD
+#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Discovery_Channel_1995.svg/revision/latest?cb=20210530055921",DISCOVERY CHANNEL HD
 udp://@225.1.1.238:30120
 
-#EXTINF:145 tvg-id="dreamworks" tvg-name="dreamworks" tvg-logo="https://funkyimg.com/i/3aqvh.png",DREAMWORKS HD
+#EXTINF:145 tvg-id="dreamworks" tvg-name="dreamworks" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",DREAMWORKS HD
 udp://@225.1.1.136:30120
 
-#EXTINF:136 tvg-id="DW-ClipTV" tvg-name="DW HD" tvg-logo="https://funkyimg.com/i/37CWZ.png",DW HD
+#EXTINF:136 tvg-id="DW-ClipTV" tvg-name="DW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW HD
 udp://@225.1.1.46:30120
 
 #EXTINF: tvg-id="MyTV_Fashion HD" tvg-name="Fashion TV HD" tvg-logo="https://imgur.com/AVm8t3Z.png",FASHION TV HD
@@ -489,19 +486,19 @@ udp://@225.1.4.90:30120
 #EXTINF:138 tvg-id="kbsworld" tvg-name="KBS World" tvg-logo="https://imgur.com/HXFXYdZ.png",KBS WORLD
 udp://@225.1.1.196:30120
 
-#EXTINF:-1 tvg-id="KIX" tvg-name="Kix HD" tvg-logo="https://funkyimg.com/i/37CWS.png",KIX HD
+#EXTINF:-1 tvg-id="KIX" tvg-name="Kix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1280px-KIX_logo.svg.png",KIX HD
 udp://@225.1.2.144:30120
 
 #EXTINF:79 tvg-id="MyTV_MTV HD" tvg-name="MTV HD" tvg-logo="https://i.imgur.com/ZxK2Bw9.png",MTV
 udp://@225.1.1.245:30120
 
-#EXTINF: tvg-id="Nat Geo Wild HD-ClipTV" tvg-name="Nat Geo Wild HD-ClipTV" tvg-logo="https://funkyimg.com/i/37Dmc.png",NAT GEO WILD HD
+#EXTINF: tvg-id="Nat Geo Wild HD-ClipTV" tvg-name="Nat Geo Wild HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD HD
 udp://@225.1.1.211:30120
 
 #EXTINF:46 tvg-id="national_geographic" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/pM3WuUY.jpg",NATIONAL GEOGRAPHIC HD
 udp://@225.1.2.235:30120
 
-#EXTINF:50 tvg-id="nhkworld" tvg-name="nn" tvg-logo="https://funkyimg.com/i/37Dmp.png",NHK WORLD JAPAN HD
+#EXTINF:50 tvg-id="nhkworld" tvg-name="nn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/2044px-NHK_World.svg.png",NHK WORLD JAPAN HD
 udp://@225.1.1.47:30120
 
 #EXTINF:108 tvg-id="MyTV_Outdoor Channel HD" tvg-name="Outdoor Channel" tvg-logo="https://imgur.com/qhbsK2l.png",OUTDOOR CHANNEL HD
@@ -510,15 +507,15 @@ udp://@225.1.2.215:30120
 #EXTINF: tvg-id="tlchd" tvg-name="TLC (Travel & Living)" tvg-logo="https://imgur.com/PEXGQAG.png",TLC HD
 udp://@225.1.1.236:30120
 
-#EXTINF:65 tvg-id="TV5 MONDE" tvg-name="TV5 Monde" tvg-logo="https://i.imgur.com/UOuvqiy.jpg",TV5 MONDE ASIE
+#EXTINF:65 tvg-id="TV5 MONDE" tvg-name="TV5 Monde" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Logo-tv5monde.svg/800px-Logo-tv5monde.svg.png",TV5 MONDE ASIE
 udp://@225.1.1.200:30120
 
-#EXTINF: tvg-id="warner_tv_hd" tvg-name="Warner TV HD" tvg-logo="https://funkyimg.com/i/37DmG.png",WARNER TV HD
+#EXTINF: tvg-id="warner_tv_hd" tvg-name="Warner TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER TV HD
 udp://@225.1.1.139:30120
 
 
 #EXTINF:148 tvg-id="MyTV_Da Vinci Learning HD" tvg-name="DaVinci HD" tvg-logo="https://imgur.com/vf9RpQb.png",DA VINCI HD
 udp://@225.1.1.197:30120
 
-#EXTINF: tvg-id="cartoon_network" tvg-name="Cartoon Network HD" tvg-logo="https://funkyimg.com/i/37CXh.png",CARTOON NETWORK HD
+#EXTINF: tvg-id="cartoon_network" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK HD
 udp://@225.1.2.231:30120
