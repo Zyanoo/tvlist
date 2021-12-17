@@ -161,6 +161,37 @@ udp://@225.1.1.188:30120
 
 
 
+
+#EXTINF: tvg-id="Animal Planet-ClipTV" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
+udp://@225.1.1.231:30120
+
+#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://imgur.com/bfXDky3.png",BBC EARTH HD
+udp://@225.1.2.24:30120
+
+#EXTINF: tvg-id="Nat Geo Wild HD-ClipTV" tvg-name="Nat Geo Wild HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD HD
+udp://@225.1.1.211:30120
+
+#EXTINF:46 tvg-id="national_geographic" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/pM3WuUY.jpg",NATIONAL GEOGRAPHIC HD
+udp://@225.1.2.235:30120
+
+#EXTINF:108 tvg-id="MyTV_Outdoor Channel HD" tvg-name="Outdoor Channel" tvg-logo="https://imgur.com/qhbsK2l.png",OUTDOOR CHANNEL HD
+udp://@225.1.2.215:30120
+
+#EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",DISCOVERY ASIA HD
+udp://@225.1.2.223:30120
+
+#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://i.ibb.co/QNys9f2/DISCOVERY-CHANNEL.png",DISCOVERY CHANNEL HD
+udp://@225.1.1.238:30120
+
+#EXTINF:150 tvg-id="MyTV_Asian Food Channel HD" tvg-name="AFN HD" tvg-logo="https://mytv.com.vn/upload/channel/phpFGBS5t_60876c46c9ea0.png",ASIAN FOOD NETWORK HD 
+udp://@225.1.1.198:30120
+
+#EXTINF: tvg-id="tlchd" tvg-name="TLC (Travel & Living)" tvg-logo="https://imgur.com/PEXGQAG.png",TLC HD
+udp://@225.1.1.236:30120
+
+
+
+
 #EXTINF:-1 tvg-id="nid" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/16/NCM_BTV10_logo.png/revision/latest?cb=20181008070900&path-prefix=vi",BTV10_NCM
 udp://@225.1.1.225:30120
 
@@ -404,34 +435,6 @@ udp://@225.1.2.21:30120
 
 
 
-
-
-#EXTINF: tvg-id="Animal Planet-ClipTV" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
-udp://@225.1.1.231:30120
-
-#EXTINF:-1 tvg-id="bbc_earth" tvg-name="BBC EARTH" tvg-logo="https://imgur.com/bfXDky3.png",BBC EARTH HD
-udp://@225.1.2.24:30120
-
-#EXTINF: tvg-id="Nat Geo Wild HD-ClipTV" tvg-name="Nat Geo Wild HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD HD
-udp://@225.1.1.211:30120
-
-#EXTINF:46 tvg-id="national_geographic" tvg-name="National Geographic HD" tvg-logo="https://i.imgur.com/pM3WuUY.jpg",NATIONAL GEOGRAPHIC HD
-udp://@225.1.2.235:30120
-
-#EXTINF:108 tvg-id="MyTV_Outdoor Channel HD" tvg-name="Outdoor Channel" tvg-logo="https://imgur.com/qhbsK2l.png",OUTDOOR CHANNEL HD
-udp://@225.1.2.215:30120
-
-#EXTINF:-1 tvg-id="discovery_asia" tvg-name="Discovery Asia HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch208_425_305",DISCOVERY ASIA HD
-udp://@225.1.2.223:30120
-
-#EXTINF: tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://i.ibb.co/QNys9f2/DISCOVERY-CHANNEL.png",DISCOVERY CHANNEL HD
-udp://@225.1.1.238:30120
-
-#EXTINF:150 tvg-id="MyTV_Asian Food Channel HD" tvg-name="AFN HD" tvg-logo="https://mytv.com.vn/upload/channel/phpFGBS5t_60876c46c9ea0.png",ASIAN FOOD NETWORK HD 
-udp://@225.1.1.198:30120
-
-#EXTINF: tvg-id="tlchd" tvg-name="TLC (Travel & Living)" tvg-logo="https://imgur.com/PEXGQAG.png",TLC HD
-udp://@225.1.1.236:30120
 
 
 
