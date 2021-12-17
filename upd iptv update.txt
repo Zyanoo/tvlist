@@ -147,7 +147,7 @@ udp://@225.1.1.171:30120
 #EXTINF:-1 tvg-id="HTVC PLUS HD" tvg-name="HTVC Plus HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b5/HTVC_HD.png/revision/latest?cb=20201018003414&path-prefix=vi",HTVC PLUS HD
 udp://@225.1.1.181:30120
 
-#EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC Thuần Việt HD" tvg-logo="hhttps://static.wikia.nocookie.net/logos/images/6/6a/HTVC_Vietnamese.png/revision/latest?cb=20210131021351&path-prefix=vi",HTVC THUẦN VIỆT HD
+#EXTINF:74 tvg-id="MyTV_HTVC - Thuần Việt HD" tvg-name="HTVC Thuần Việt HD" tvg-logo="https://htvc.vn/uploads/editor/images/LOGOC_THUANVIET%20fit.png",HTVC THUẦN VIỆT HD
 udp://@225.1.1.186:30120
 
 
